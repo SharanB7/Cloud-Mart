@@ -3,6 +3,8 @@
 ## Overview
 CloudMart is a cloud-based e-commerce web application designed to leverage AI-powered assistants for enhanced customer experience. This project integrates AWS, Google Cloud, and Azure services for scalability, reliability, and AI-driven automation. The backend is deployed using Kubernetes, while a CI/CD pipeline ensures seamless development and deployment processes.
 
+![Architecture](assets/architecture.jpg)
+
 ## Architecture & Flow
 ### 1. Infrastructure Setup:
 - Provisioned AWS resources using Terraform, including S3, EC2, IAM Roles, and DynamoDB tables.
